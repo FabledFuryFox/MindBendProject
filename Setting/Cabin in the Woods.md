@@ -1,0 +1,1 @@
+Where our protagonist will be living for the majority of the show. It resides on the edge of [[Pharos's Creek]] away from most eyes.
