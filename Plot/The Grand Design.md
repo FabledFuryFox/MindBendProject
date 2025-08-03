@@ -1,0 +1,5 @@
+Thoughts:
+	What about the story of how these young adventures fought tooth and nail for every ounce of their dreams to succeed at a school, they lost themselves along the way (trials) and have to find themselves after? They stuck their noes into a situation they shouldn't have? Did have an idea where a Glitterworld cargo ship crashes down near them into pieces. Maybe it also starts anomalies in the area. How to tie in the characters and their trials. usually its easier to connect story elements, like building legos, so why is it so hard for this? Lets form another piece then... What do I want to build up to, what should the end be like?
+	Someone wants to take the God Seed from all living things to grant a wish to bring something back to life? Close to what I want. Siphoning mana from people to what? Gain more power? Lame... What of a desire to overwrite free will through the manipulation of peoples souls? I dooo like this. An evil god wanting to gain control of our wills and mana to feed into his desires, since he was physically banished from these realms.
+	
+	
