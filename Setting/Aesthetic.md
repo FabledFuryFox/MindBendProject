@@ -1,0 +1,2 @@
+What I want: 
+	A dark but colorful world wrapped in mystery. Where the mind finds wonder in its walls and captivates the audience withe the emotions they feel. A grand feeling to its scope, where even the town itself feels unreal but natural.  
