@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/The 'False' God of Progression, Bohae.md",
+                "file": "Setting/History and Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The 'False' God of Progression, Bohae"
-            }
-          },
-          {
-            "id": "68956abc128a764c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "History and Lore"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,20 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68956abc128a764c",
+  "active": "3fa723c055f3994a",
   "lastOpenFiles": [
-    "Characters/The 'False' God of Progression, Bohae.md",
     "Plot/The Grand Design.md",
-    "Creatures/The Fractaled.md",
-    "Characters/Jack Strider.md",
-    "Characters/Kyle Hendricks.md",
+    "Setting/History and Lore.md",
+    "Characters/The God of Progression, Bohae.md",
     "Characters/William Strider - Fenix.md",
     "Plot/Season One/The Start of any Great Story.md",
     "Plot/Season One/The Trials.md",
+    "Setting/The Overall World and its Laws.md",
+    "Creatures/The Fractaled.md",
+    "Characters/Jack Strider.md",
+    "Characters/Kyle Hendricks.md",
     "Setting/Aesthetic.md",
     "Setting/Cabin in the Woods.md",
     "Setting/Pharos's Creek.md",
-    "Setting/The Overall World and its Laws.md",
     "Creatures",
     "Plot/Season One",
     "Plot/Seaso.md",
