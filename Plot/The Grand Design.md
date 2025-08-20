@@ -4,5 +4,6 @@ Thoughts:
 Idea:
 	>So, I've created the story of [[The God of Progression, Bohae]] to be the main hidden villain within the story. Basically, he was banished from the physical realm and has found a way to communicate and manipulate with others within the area of [[Pharos's Creek]]. He than tries to learn of ways to fully control and use them to create a ritual that will bring him back from his banishment. He uses total control as a means because that's what he believes to be his down fall during the Great Calamity as he was betrayed in the end.
 	>Now this is the overall evil or villain taking root in this place. But what will be the surface or mask to this. Antagonists the hero's will have to deal with directly? I do want an extensive cult within the town and, more predominantly, within the surrounding areas of sadistic bastards that worship idols and artifacts created by The False God of Calamity. Fractured into covens throughout the area, they represent a secret and blood sucking parasite within the story.  
+	>The reason Bohae can communicate so freely is because of the Corporeality Engine that was built and lost long before the arrival of the Domain of the Fourth Light. Its also one of the keys to bringing him back into this 
 	
 	

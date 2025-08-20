@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/History and Lore.md",
+                "file": "Setting/The Overall World and its Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History and Lore"
+              "title": "The Overall World and its Laws"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,19 +172,19 @@
   },
   "active": "3fa723c055f3994a",
   "lastOpenFiles": [
-    "Plot/The Grand Design.md",
     "Setting/History and Lore.md",
-    "Characters/The God of Progression, Bohae.md",
-    "Characters/William Strider - Fenix.md",
+    "Setting/The Overall World and its Laws.md",
     "Plot/Season One/The Start of any Great Story.md",
     "Plot/Season One/The Trials.md",
-    "Setting/The Overall World and its Laws.md",
-    "Creatures/The Fractaled.md",
-    "Characters/Jack Strider.md",
-    "Characters/Kyle Hendricks.md",
+    "Plot/The Grand Design.md",
     "Setting/Aesthetic.md",
     "Setting/Cabin in the Woods.md",
     "Setting/Pharos's Creek.md",
+    "Characters/Jack Strider.md",
+    "Characters/The God of Progression, Bohae.md",
+    "Characters/Kyle Hendricks.md",
+    "Characters/William Strider - Fenix.md",
+    "Creatures/The Fractaled.md",
     "Creatures",
     "Plot/Season One",
     "Plot/Seaso.md",

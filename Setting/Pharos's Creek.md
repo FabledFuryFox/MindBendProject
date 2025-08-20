@@ -1,2 +1,2 @@
 Overview:
-	This is the town most of the story takes place in and is part of [[The Overall World and its Laws]]. 
+	This is the town most of the story takes place in and is part of [[The Overall World and its Laws]]. The residents of this town aren't too keen on outsiders and tend to act vaguely strange. They appear to be unaware to the weirdness that surrounds them, but they do this to keep themselves safe from prying eyes.
